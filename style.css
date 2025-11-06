@@ -435,3 +435,16 @@ footer {
 footer p {
   text-align: center;
 }
+
+
+body {
+  background: linear-gradient(135deg, 
+    #ffb6c1 0%,  
+    #add8e6 40%,  
+    #fffacd 80%,  
+    #f5e6cc 100% 
+  );
+  background-attachment: fixed;
+  background-size: cover;
+  color: #000;
+}
